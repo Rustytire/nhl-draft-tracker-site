@@ -1,0 +1,22 @@
+Board Battles — public site: content & data usage
+==================================================
+
+This repository contains a single baked artifact (`index.html`). Two different
+things inside it carry two different licenses:
+
+1. CODE (the site's HTML/CSS/JavaScript and the code that generated it) is
+   released under the MIT License, which lives with the source in the separate
+   Board Battles code repository. You may reuse the code under MIT.
+
+2. DRAFT-RANKING DATA shown on the site is NOT open-licensed. Each ranking is the
+   intellectual property of the scout or outlet that produced it and is used here
+   for measurement and commentary, with attribution and links back to the
+   source (see CREDITS.md). Paid/subscription sources are never reproduced as
+   ordered boards or exact ranks — only derived measurements and coarse ranges.
+
+Nothing here grants any right to redistribute the third-party ranking data.
+Reuse of the code is free (MIT); reuse of the data is not.
+
+Copyright (c) 2026 Brendan Martin. Independent project; not affiliated with the
+NHL or any outlet graded. A human IP / media-law review is recommended before
+wider public promotion.
